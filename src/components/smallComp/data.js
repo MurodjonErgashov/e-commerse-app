@@ -170,7 +170,8 @@ export const storeProducts = [
   {
     id: 7,
     title: "Google Pixel - Black",
-    img: "https://vdxl.im/0754495603498_a_en_r458.jpg",
+    img:
+      "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F894603%252F8d3e8525-0617-41e8-a708-e8e88630461e.jpeg%252Ffull-fit-in__950x534.jpeg?signature=eQPKhN-VgTqo2Q12unA7ZlrRpfo=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
     price: 14,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -282,7 +283,7 @@ export const storeProducts = [
     id: 11,
     title: "Google Pixel - Black",
     img:
-      "https://www.dhresource.com/0x0/f2/albu/g6/M00/1F/D1/rBVaSFut3jKAYQ-6AAFE1d2WVwM884.jpg",
+      "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F894603%252F8d3e8525-0617-41e8-a708-e8e88630461e.jpeg%252Ffull-fit-in__950x534.jpeg?signature=eQPKhN-VgTqo2Q12unA7ZlrRpfo=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
     price: 4,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -337,7 +338,7 @@ export const storeProducts = [
     id: 13,
     title: "Google Pixel - Black",
     img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiwy7r8-zxcB1_BLfzMtKBOeU_OVNsV6gsZja1iCyEYKKD07Az&usqp=CAU",
+      "https://images-na.ssl-images-amazon.com/images/I/51bTczckffL._AC_SX425_.jpg",
     price: 21,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -365,7 +366,7 @@ export const storeProducts = [
     id: 14,
     title: "Google Pixel - Black",
     img:
-      "https://www.bacover.com/image/cache/catalog/iphone%205%20zemin-1000x1000.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFNOmNe5AIuS5qJ_o8iwcN-xEmyZ6wIhGbxSR5rE986bdK6Y4g&usqp=CAU",
     price: 11,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -421,7 +422,7 @@ export const storeProducts = [
     id: 16,
     title: "Google Pixel - Black",
     img:
-      "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-silver-select-201810?wid=892&hei=820&&qlt=80&.v=1541713861325",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9_gsAkxruariDUgWhb-YY7LGECULKg0SClzB1-QwtAX27kYlW&usqp=CAU",
     price: 10,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -477,7 +478,7 @@ export const storeProducts = [
     id: 18,
     title: "Google Pixel - Black",
     img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4F5gcypbUIKNsw45oLwghPWYQG4fzBy9dB_KYXYRpPewyF_K5&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFNOmNe5AIuS5qJ_o8iwcN-xEmyZ6wIhGbxSR5rE986bdK6Y4g&usqp=CAU",
     price: 7,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
@@ -533,7 +534,7 @@ export const storeProducts = [
     id: 20,
     title: "Google Pixel - Black",
     img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0-RHlW-VdjOaOTqSDglMOvYO5tbneq6Azkhn_h5atyPbp_ab8&usqp=CAU",
+      "https://images-na.ssl-images-amazon.com/images/I/51bTczckffL._AC_SX425_.jpg",
     price: 10,
     company: "GOOGLE",
     info: `Contrary to popular belief, Lorem Ipsum is
